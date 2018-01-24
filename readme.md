@@ -10,7 +10,7 @@ the rabbit hole
 tl;dr
 -----
 
-these are just references - you can find everything also using the [goggel](http://www.google.com)
+these are just references - you can also find everything via [goggel](http://www.google.com)
 
 management summary
 ------------------
