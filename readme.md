@@ -10,7 +10,7 @@ the rabbit hole
 tl;dr
 -----
 
-these are just references - you can also find everything via [goggel](http://www.google.com)
+these are just references - you can also find everything via [goggel](http://www.google.com/search?q=full+stack+development+tutorial&oq=full+stack+development)
 
 management summary
 ------------------
@@ -25,7 +25,7 @@ either I don't know it or I am not particularly fond of it.
 the stack
 ---------
 
-the resources encompass the following items:
+the resources cover the following items:
 
 * **platforms:** [stackoverflow](https://stackoverflow.com), [github](https://github.com), [bitbucket](https://bitbucket.org)
 * **infrastructure:** [ubuntu](https://www.ubuntu.com/download/server), [docker](https://www.docker.com/)
@@ -36,10 +36,31 @@ the resources encompass the following items:
    * **nosql:** [cassandra](http://cassandra.apache.org/), [couchbase](https://www.couchbase.com/), [neo4j](https://neo4j.com/), [mongodb](https://www.mongodb.com/)
 * **languages:** [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html), [javascript](https://en.wikipedia.org/wiki/ECMAScript), [go](https://golang.org/)
 * **back-end:** [j2ee](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [tomcat](http://tomcat.apache.org/)
-* **front-end:** [angular](https://angular.io/), [vue](https://vuejs.org)
+* **front-end:** [angular](https://angular.io/), [vue](https://vuejs.org), [sass](http://sass-lang.com/), [bootstrap](https://getbootstrap.com/)
+* **mobile:** [cordova](https://cordova.apache.org/), [ionic](https://ionicframework.com/), [nativescript](https://www.nativescript.org/)
+* **icons:** [fontawesome](https://fontawesome.com/), [glyphicons](http://glyphicons.com/), [ionicons](http://ionicons.com/), [material icons](https://material.io/icons/)
 * **tools:**
-   * **scm:** [git](https://git-scm.com/)
+   * **scm:** [git](https://git-scm.com/), [tortoise](https://tortoisegit.org/)
    * **infrastructure:** [terraform](https://www.terraform.io), [ansible](https://www.ansible.com/)
-   * **build tools:** [mvn](https://maven.apache.org/), [gradle](https://gradle.org/)
+   * **build tools:** [mvn](https://maven.apache.org/), [gradle](https://gradle.org/), [webpack](https://webpack.js.org/)
    * **runtime:** [node.js](https://nodejs.org)
    * **packaging:** [yarn](https://yarnpkg.com)
+
+the essentials
+--------------
+
+* install:
+   * [ide](https://www.jetbrains.com/idea/download/)
+   * [git](https://git-scm.com/) and [tortoise](https://tortoisegit.org/) (windows only)
+* register on:
+   * [stackoverflow](https://stackoverflow.com) - development knowledge base
+   * [github](https://github.com) - public repositories
+   * [bitbucket](https://bitbucket.org) - free private repositories
+* java:
+   * [java runtime](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+   * [mvn](https://maven.apache.org/) and/or [gradle](https://gradle.org/)
+* javascript:
+   * [node.js](https://nodejs.org)
+   * [yarn](https://yarnpkg.com)
+
+unless you want to install all servers (dbs, app servers etc) locally on your dev machine, it may make sense to add [docker](https://www.docker.com/).
