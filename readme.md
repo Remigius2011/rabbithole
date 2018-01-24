@@ -15,7 +15,7 @@ these are just references - you can also find everything via [goggel](http://www
 management summary
 ------------------
 
-triggered by a good friend and buddy from the [gliding club](http://sgbaselfricktal.ch/) who would like to
+triggered by a good friend and member of the [gliding club](http://sgbaselfricktal.ch/) who would like to
 restart coding after some years of interruption (which is aeons in internet speed), I started out to collect
 some resources about the full stack - from infrastructure to programming languages.
 
