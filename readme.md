@@ -10,12 +10,12 @@ the rabbit hole
 tl;dr
 -----
 
-these are just references - you can find everything also using the [goggel](www.google.com)
+these are just references - you can find everything also using the [goggel](http://www.google.com)
 
 management summary
 ------------------
 
-triggered by a good friend and buddy from the [gligind club](http://sgbaselfricktal.ch/) who would like to
+triggered by a good friend and buddy from the [gliding club](http://sgbaselfricktal.ch/) who would like to
 restart coding after some years of interruption (which is aeons in internet speed), I started out to collect
 some resources about the full stack - from infrastructure to programming languages.
 
