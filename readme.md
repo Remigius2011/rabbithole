@@ -22,6 +22,15 @@ some resources about the full stack - from infrastructure to programming languag
 it's obviously an opinionated collection, so if you don't find your favorite tool or lib, don't be sad -
 either I don't know it or I am not particularly fond of it.
 
+toc
+---
+
+the following sections are available in this repo:
+
+* **[general remarks](docs/general.md)**
+
+(more to follow)
+
 the stack
 ---------
 
