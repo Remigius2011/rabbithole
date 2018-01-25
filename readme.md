@@ -35,16 +35,18 @@ the resources cover the following items:
    * **sql:** [postgresql](https://www.postgresql.org/), [mysql](https://www.mysql.com/), [hsqldb](http://hsqldb.org/), [cockroachdb](https://www.cockroachlabs.com/)
    * **nosql:** [cassandra](http://cassandra.apache.org/), [couchbase](https://www.couchbase.com/), [neo4j](https://neo4j.com/), [mongodb](https://www.mongodb.com/)
 * **languages:** [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html), [javascript](https://en.wikipedia.org/wiki/ECMAScript), [go](https://golang.org/)
-* **back-end:** [j2ee](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [tomcat](http://tomcat.apache.org/)
+* **back-end:** [j2ee](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [tomcat](http://tomcat.apache.org/), [spring boot](https://projects.spring.io/spring-boot/)
 * **front-end:** [angular](https://angular.io/), [vue](https://vuejs.org), [sass](http://sass-lang.com/), [bootstrap](https://getbootstrap.com/)
 * **mobile:** [cordova](https://cordova.apache.org/), [ionic](https://ionicframework.com/), [nativescript](https://www.nativescript.org/)
 * **icons:** [fontawesome](https://fontawesome.com/), [glyphicons](http://glyphicons.com/), [ionicons](http://ionicons.com/), [material icons](https://material.io/icons/)
 * **tools:**
-   * **scm:** [git](https://git-scm.com/), [tortoise](https://tortoisegit.org/)
+   * **scm:** [git](https://git-scm.com/), [tortoise](https://tortoisegit.org/), [gogs](https://gogs.io/)
    * **infrastructure:** [terraform](https://www.terraform.io), [ansible](https://www.ansible.com/)
    * **build tools:** [mvn](https://maven.apache.org/), [gradle](https://gradle.org/), [webpack](https://webpack.js.org/)
    * **runtime:** [node.js](https://nodejs.org)
    * **packaging:** [yarn](https://yarnpkg.com)
+* **ci/cd:** [travis](https://travis-ci.org/), [jenkins](https://jenkins.io/)
+* **newsletters:** [jetbrains - community newsletter](https://www.jetbrains.com/community/newsletters/), [docker weekly](https://www.docker.com/newsletter-subscription)
 
 the essentials
 --------------
