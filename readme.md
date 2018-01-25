@@ -28,6 +28,7 @@ toc
 the following sections are available in this repo:
 
 * **[general remarks](docs/general.md)**
+* **[angular vs vue](docs/ng-vs-vue.md)**
 
 (more to follow)
 
